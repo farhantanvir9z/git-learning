@@ -15,4 +15,4 @@ Many useful Git command.
 12. git rm --cached <file name>
 13. git rm <file name>
 
-it is feature 1 branch
+it is edited in feature 2
