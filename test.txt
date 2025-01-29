@@ -1,0 +1,16 @@
+Many useful Git command.
+
+1. git config --get user.name
+2. git config --get user.email
+3. git config --global user.name "<name>"
+4. git config --global user.email "<email address> "
+5. git init
+6. git status
+7. git add <file name>
+8. git commit -m "<commit message>"
+9. git log
+9. git log --oneline
+10. git reset --hard <commit id>id
+11. git reflog
+12. git rm --cached <file name>
+13. git rm <file name>
