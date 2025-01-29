@@ -14,3 +14,8 @@ Many useful Git command.
 11. git reflog
 12. git rm --cached <file name>
 13. git rm <file name>
+14. git branch <branch name>
+15. git branch --list
+16. git branch --a
+17. git switch <branch name>
+18. git merge <to be marged branch name>
