@@ -19,3 +19,4 @@ Many useful Git command.
 16. git branch --a
 17. git switch <branch name>
 18. git merge <to be marged branch name>
+it is edited in feature 2
