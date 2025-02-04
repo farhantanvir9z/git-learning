@@ -10,7 +10,7 @@ Many useful Git command.
 8. git commit -m "<commit message>"
 9. git log
 9. git log --oneline
-10. git reset --hard <commit id>id
+10. git reset --hard <commit id>
 11. git reflog
 12. git rm --cached <file name>
 13. git rm <file name>
@@ -21,4 +21,7 @@ Many useful Git command.
 18. git merge <to be marged branch name>
 19. git branch -m <branch name> //for renaming.
 19. git branch -d <to be deleted branch name>
-it is edited in feature 2
+20. git stash save "<stash message>"
+21. git stash -a
+22. git stash show -p
+23. git stash pop
