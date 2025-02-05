@@ -25,3 +25,7 @@ Many useful Git command.
 21. git stash -a
 22. git stash show -p
 23. git stash pop
+24. git remote add origin <URL>
+25. git clone <URL>
+26. git push -U origin <branch name>
+27. git pull 
